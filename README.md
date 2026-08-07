@@ -1,5 +1,7 @@
 # Reconstructing Palladian Symmetry
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21842440.svg)](https://doi.org/10.5281/zenodo.21842440)
+
 Minimal public reproducibility repository for the article **“Reconstructing Palladian Symmetry: Quotient Trees and House-and-Wing Morphospace.”**
 
 This repository preserves the final 16-villa metric table, the final quotient-tree diagrams, the supplementary workflow diagrams, and the two small scripts needed to validate Table 1 and regenerate Figure 13. It is a publication support archive, not the development repository for the analysis software.
