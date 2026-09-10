@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+<title id="title">Figure 13. SPD/SRI morphospace of sixteen Palladian villa symmetry graphs</title>
+<desc id="desc">Figure 13. SPD/SRI morphospace of sixteen Palladian villa symmetry graphs. Normalized Symmetry Propagation Depth and Symmetry Reticulation Index are plotted on the primary axes, with corresponding raw-value scales shown on the secondary axes. Dashed lines indicate corpus medians and divide the field into four descriptive regions.</desc>
+<rect width="1600" height="1100" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#171717">
+<rect x="170" y="120" width="1240" height="750" fill="#ffffff" stroke="#171717" stroke-width="1.4"/>
+<line x1="649.434" y1="120" x2="649.434" y2="870" stroke="#555555" stroke-width="1.4" stroke-dasharray="9 8"/>
+<line x1="170" y1="504.581" x2="1410" y2="504.581" stroke="#555555" stroke-width="1.4" stroke-dasharray="9 8"/>
+<text x="659.434" y="148" font-size="14" fill="#555555">Corpus median</text>
+<text x="1398" y="494.581" text-anchor="end" font-size="14" fill="#555555">Corpus median</text>
+<text x="188" y="302" font-size="18" font-weight="600" opacity="0.24">Layered compact reticulation</text>
+<text x="1392" y="168" text-anchor="end" font-size="18" font-weight="600" opacity="0.24">Distributed reticulated symmetry</text>
+<text x="188" y="850" font-size="18" font-weight="600" opacity="0.24">Compact low-reticulation symmetry</text>
+<text x="1392" y="850" text-anchor="end" font-size="18" font-weight="600" opacity="0.24">Sequential wing propagation</text>
+<line x1="188.058" y1="870" x2="188.058" y2="878" stroke="#171717" stroke-width="1.2"/>
+<text x="188.058" y="902" text-anchor="middle" font-size="16">0.00</text>
+<line x1="188.058" y1="120" x2="188.058" y2="112" stroke="#171717" stroke-width="1.2"/>
+<text x="188.058" y="100" text-anchor="middle" font-size="15">2.333</text>
+<line x1="170" y1="859.078" x2="162" y2="859.078" stroke="#171717" stroke-width="1.2"/>
+<text x="152" y="865.078" text-anchor="end" font-size="16">0.00</text>
+<line x1="1410" y1="859.078" x2="1418" y2="859.078" stroke="#171717" stroke-width="1.2"/>
+<text x="1428" y="865.078" font-size="15">0.000</text>
+<line x1="489.029" y1="870" x2="489.029" y2="878" stroke="#171717" stroke-width="1.2"/>
+<text x="489.029" y="902" text-anchor="middle" font-size="16">0.25</text>
+<line x1="489.029" y1="120" x2="489.029" y2="112" stroke="#171717" stroke-width="1.2"/>
+<text x="489.029" y="100" text-anchor="middle" font-size="15">3.437</text>
+<line x1="170" y1="677.039" x2="162" y2="677.039" stroke="#171717" stroke-width="1.2"/>
+<text x="152" y="683.039" text-anchor="end" font-size="16">0.25</text>
+<line x1="1410" y1="677.039" x2="1418" y2="677.039" stroke="#171717" stroke-width="1.2"/>
+<text x="1428" y="683.039" font-size="15">0.056</text>
+<line x1="790.000" y1="870" x2="790.000" y2="878" stroke="#171717" stroke-width="1.2"/>
+<text x="790.000" y="902" text-anchor="middle" font-size="16">0.50</text>
+<line x1="790.000" y1="120" x2="790.000" y2="112" stroke="#171717" stroke-width="1.2"/>
+<text x="790.000" y="100" text-anchor="middle" font-size="15">4.542</text>
+<line x1="170" y1="495.000" x2="162" y2="495.000" stroke="#171717" stroke-width="1.2"/>
+<text x="152" y="501.000" text-anchor="end" font-size="16">0.50</text>
+<line x1="1410" y1="495.000" x2="1418" y2="495.000" stroke="#171717" stroke-width="1.2"/>
+<text x="1428" y="501.000" font-size="15">0.111</text>
+<line x1="1090.971" y1="870" x2="1090.971" y2="878" stroke="#171717" stroke-width="1.2"/>
+<text x="1090.971" y="902" text-anchor="middle" font-size="16">0.75</text>
+<line x1="1090.971" y1="120" x2="1090.971" y2="112" stroke="#171717" stroke-width="1.2"/>
+<text x="1090.971" y="100" text-anchor="middle" font-size="15">5.646</text>
+<line x1="170" y1="312.961" x2="162" y2="312.961" stroke="#171717" stroke-width="1.2"/>
+<text x="152" y="318.961" text-anchor="end" font-size="16">0.75</text>
+<line x1="1410" y1="312.961" x2="1418" y2="312.961" stroke="#171717" stroke-width="1.2"/>
+<text x="1428" y="318.961" font-size="15">0.167</text>
+<line x1="1391.942" y1="870" x2="1391.942" y2="878" stroke="#171717" stroke-width="1.2"/>
+<text x="1391.942" y="902" text-anchor="middle" font-size="16">1.00</text>
+<line x1="1391.942" y1="120" x2="1391.942" y2="112" stroke="#171717" stroke-width="1.2"/>
+<text x="1391.942" y="100" text-anchor="middle" font-size="15">6.750</text>
+<line x1="170" y1="130.922" x2="162" y2="130.922" stroke="#171717" stroke-width="1.2"/>
+<text x="152" y="136.922" text-anchor="end" font-size="16">1.00</text>
+<line x1="1410" y1="130.922" x2="1418" y2="130.922" stroke="#171717" stroke-width="1.2"/>
+<text x="1428" y="136.922" font-size="15">0.222</text>
+<text x="790.0" y="42" text-anchor="middle" font-size="20" font-weight="700">SPD raw</text>
+<text x="790.0" y="952" text-anchor="middle" font-size="21" font-weight="700">Normalized Symmetry Propagation Depth (SPD)</text>
+<g transform="translate(48 495.0) rotate(-90)"><text text-anchor="middle" font-size="21" font-weight="700">Normalized Symmetry Reticulation Index (SRI)</text></g>
+<g transform="translate(1552 495.0) rotate(90)"><text text-anchor="middle" font-size="20" font-weight="700">SRI raw</text></g>
+<line x1="1113.169" y1="373.641" x2="1124.169" y2="354.641" stroke="#777777" stroke-width="0.9"/>
+<line x1="233.488" y1="607.024" x2="246.488" y2="626.024" stroke="#777777" stroke-width="0.9"/>
+<line x1="710.498" y1="181.140" x2="723.498" y2="200.140" stroke="#777777" stroke-width="0.9"/>
+<line x1="460.636" y1="495.000" x2="447.636" y2="472.000" stroke="#777777" stroke-width="0.9"/>
+<line x1="953.871" y1="561.196" x2="966.871" y2="542.196" stroke="#777777" stroke-width="0.9"/>
+<line x1="681.294" y1="677.039" x2="668.294" y2="654.039" stroke="#777777" stroke-width="0.9"/>
+<line x1="617.574" y1="407.119" x2="630.574" y2="386.119" stroke="#777777" stroke-width="0.9"/>
+<line x1="560.581" y1="574.147" x2="547.581" y2="597.147" stroke="#777777" stroke-width="0.9"/>
+<line x1="403.849" y1="449.490" x2="390.849" y2="428.490" stroke="#777777" stroke-width="0.9"/>
+<line x1="795.679" y1="607.024" x2="808.679" y2="630.024" stroke="#777777" stroke-width="0.9"/>
+<line x1="551.495" y1="495.000" x2="564.495" y2="516.000" stroke="#777777" stroke-width="0.9"/>
+<line x1="833.158" y1="710.137" x2="846.158" y2="733.137" stroke="#777777" stroke-width="0.9"/>
+<polyline points="791.032,859.078 830.000,850.000 900.000,808.000 1000.000,790.000" fill="none" stroke="#555555" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="188.058,514.162 190.000,515.000 190.000,757.000 220.000,757.000" fill="none" stroke="#555555" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="478.807,130.922 465.000,148.000 395.000,165.000" fill="none" stroke="#555555" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1391.942,367.573 1388.000,345.000 1360.000,310.000" fill="none" stroke="#555555" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1113.169" cy="373.641" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="791.032" cy="859.078" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="188.058" cy="514.162" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="233.488" cy="607.024" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="710.498" cy="181.140" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="460.636" cy="495.000" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="953.871" cy="561.196" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="681.294" cy="677.039" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="478.807" cy="130.922" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="617.574" cy="407.119" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="560.581" cy="574.147" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="403.849" cy="449.490" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="1391.942" cy="367.573" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="795.679" cy="607.024" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="551.495" cy="495.000" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="833.158" cy="710.137" r="8" fill="#171717" stroke="#ffffff" stroke-width="1.5"/>
+<text x="1129.169" y="359.641" text-anchor="start" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Angarano</text>
+<text x="251.488" y="631.024" text-anchor="start" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Cornaro</text>
+<text x="728.498" y="205.140" text-anchor="start" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Emo</text>
+<text x="442.636" y="477.000" text-anchor="end" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Foscari</text>
+<text x="971.871" y="547.196" text-anchor="start" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Pisani</text>
+<text x="663.294" y="659.039" text-anchor="end" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Poiana</text>
+<text x="635.574" y="391.119" text-anchor="start" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Repeta</text>
+<text x="542.581" y="602.147" text-anchor="end" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Saraceno</text>
+<text x="385.849" y="433.490" text-anchor="end" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Serego</text>
+<text x="813.679" y="635.024" text-anchor="start" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Trissino</text>
+<text x="569.495" y="521.000" text-anchor="start" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Valmarana</text>
+<text x="851.158" y="738.137" text-anchor="start" font-size="16" font-weight="700" paint-order="stroke" stroke="#ffffff" stroke-width="5" stroke-linejoin="round">Zeno</text>
+<rect x="1000" y="720" width="360" height="88" rx="4" fill="#ffffff" fill-opacity="0.97" stroke="#888888" stroke-width="1"/>
+<text x="1014" y="742" font-size="16" font-weight="700">Barbaro</text>
+<text x="1014" y="763" font-size="14" fill="#444444">SPD 4.545 · SRI 0.000</text>
+<text x="1014" y="785" font-size="14" font-weight="600">Above-median propagation, no reticulation</text>
+<rect x="220" y="735" width="360" height="88" rx="4" fill="#ffffff" fill-opacity="0.97" stroke="#888888" stroke-width="1"/>
+<text x="234" y="757" font-size="16" font-weight="700">Capra</text>
+<text x="234" y="778" font-size="14" fill="#444444">SPD 2.333 · SRI 0.105</text>
+<text x="234" y="800" font-size="14" font-weight="600">Minimum propagation depth, near-median reticulation</text>
+<rect x="200" y="165" width="390" height="88" rx="4" fill="#ffffff" fill-opacity="0.97" stroke="#888888" stroke-width="1"/>
+<text x="214" y="187" font-size="16" font-weight="700">Ragona</text>
+<text x="214" y="208" font-size="14" fill="#444444">SPD 3.400 · SRI 0.222</text>
+<text x="214" y="230" font-size="14" font-weight="600">Moderate depth, highest relative reticulation</text>
+<rect x="1000" y="245" width="360" height="88" rx="4" fill="#ffffff" fill-opacity="0.97" stroke="#888888" stroke-width="1"/>
+<text x="1014" y="267" font-size="16" font-weight="700">Thiene</text>
+<text x="1014" y="288" font-size="14" fill="#444444">SPD 6.750 · SRI 0.150</text>
+<text x="1014" y="310" font-size="14" font-weight="600">Maximum depth, nine surplus edges</text>
+</g></svg>

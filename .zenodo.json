@@ -9,5 +9,5 @@
   ],
   "description": "Updated public reproducibility release for the article “Reconstructing Palladian Symmetry: Quotient Trees and House-and-Wing Morphospace.” Includes the corrected 16-villa SPD/SRI dataset, deterministic Table 1 and Figure 13 scripts, refreshed quotient-tree diagrams and supplementary workflows. Version v1.1 updates Zeno to Q=22, E_Q=22, 10 leaves, SPD=4.700 and SRI=0.045; all other metric rows and all morphospace assignments are unchanged. Diagrams retain distinct directed dashed connections with compact layouts and no redundant reverse arrows or self-loops.",
   "license": "cc-by-4.0",
-  "version": "v1.1"
+  "version": "v1.1.1"
 }

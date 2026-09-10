@@ -6,7 +6,9 @@ Minimal public reproducibility repository for the article **“Reconstructing Pa
 
 This repository preserves the final 16-villa metric table, the final quotient-tree diagrams, the supplementary workflow diagrams, and the two small scripts needed to validate Table 1 and regenerate Figure 13. It is a publication support archive, not the development repository for the analysis software.
 
-## Version v1.1 — September 10, 2026
+## Version v1.1.1 — September 10, 2026
+
+Version v1.1.1 includes the regenerated Figure 13 SVG in the release archive (the v1.1 script and data already reproduce it).
 
 Updated from analysis source [`9afbb43`](https://github.com/sbrgkmn/260224_PalladioGraph/commit/9afbb43). All sixteen quotient-tree and workflow images reflect the current directed connections, compact branch arrangements, and numbered-node alignment. Distinct dashed connections remain visible; self-loops and redundant reverse arrows are suppressed in the presentation. Display layout changes do not alter the analytical metrics.
 
