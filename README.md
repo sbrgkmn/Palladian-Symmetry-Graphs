@@ -1,10 +1,18 @@
 # Reconstructing Palladian Symmetry
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21842440.svg)](https://doi.org/10.5281/zenodo.21842440)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21842439.svg)](https://doi.org/10.5281/zenodo.21842439)
 
 Minimal public reproducibility repository for the article **“Reconstructing Palladian Symmetry: Quotient Trees and House-and-Wing Morphospace.”**
 
 This repository preserves the final 16-villa metric table, the final quotient-tree diagrams, the supplementary workflow diagrams, and the two small scripts needed to validate Table 1 and regenerate Figure 13. It is a publication support archive, not the development repository for the analysis software.
+
+## Version v1.1 — September 10, 2026
+
+Updated from analysis source [`9afbb43`](https://github.com/sbrgkmn/260224_PalladioGraph/commit/9afbb43). All sixteen quotient-tree and workflow images reflect the current directed connections, compact branch arrangements, and numbered-node alignment. Distinct dashed connections remain visible; self-loops and redundant reverse arrows are suppressed in the presentation. Display layout changes do not alter the analytical metrics.
+
+Compared with v1.0, the corrected Zeno graph changes Q and E_Q from 21 to 22, leaves from 9 to 10, and leaf-depth sum from 40 to 47. Zeno now has SPD raw **4.700**, SPD norm **0.536**, SRI raw **0.045**, and SRI norm **0.205**. All other metric rows, the corpus medians, and all morphospace category assignments remain unchanged. Zeno remains in **Sequential wing propagation**. The previously corrected Repeta values remain unchanged.
+
+The DOI badge links to all versions; the original v1.0 remains available at [its version DOI](https://doi.org/10.5281/zenodo.21842440).
 
 ## Corpus
 
@@ -54,6 +62,8 @@ data/
 code/
   compute_spd_sri.py             Recomputes, validates, and exports the final Table 1 metrics
   plot_morphospace.py            Regenerates Figure 13 as a self-contained SVG
+figures/
+  figure13_morphospace.svg      Morphospace regenerated from the updated CSV
 quotient_trees/
   *_quotient_tree.png            Final quotient-tree diagram for each of the sixteen villas
 supplementary/
